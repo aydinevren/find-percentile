@@ -1,6 +1,3 @@
-from numpy import percentile
-
-
 numbers = [30, 56, 76, 12, 26, 96, 28, 77, 81, 21, 32, 93, 23, 19, 32, 43, 67, 48]
 
 last_n = 10
